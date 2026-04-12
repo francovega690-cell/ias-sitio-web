@@ -192,3 +192,11 @@ textarea {
   list-style: none;
  
 }
+/* Flexbox para [acomodar sus elementos de forma de culumna o fila ]
+- display: flex activa el modo flexbox
+- [flex direction column: cambia la dirección de los elementos a una columna uno de bajo del otro]
+*[Display Grid: permite organizar los elementos en filas o columnas]
+ grid-template-columns: permite definir cuantas filas tiene el grid y su tamaño
+ flex-wrap: hace que los elementos pasen a otra linea si no entran en una sola fila.
+ 
+*/
