@@ -9,7 +9,8 @@ body{
 
 }
 nav ul li{
-
+    display: flex;
+    justify-content: space-around;
      margin: 40px;
      background-color: rgb(158, 217, 235);
      border: 1px solid black;
